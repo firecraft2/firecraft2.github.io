@@ -1,2 +1,3 @@
 name: firecraft2, Burning Fire
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
